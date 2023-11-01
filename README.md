@@ -1,0 +1,9 @@
+# Automated-Diagnosis-of-pigmented-skin-lesions
+Skin cancer is the most common type of cancer worldwide (Linares et al., 2015). According to the World Health Organization (WHO), approximately 2-3 million cases of non-melanoma and 132,000 cases of melanoma skin cancers are diagnosed each year. Early detection of skin cancer is crucial in improving survival and treatment outcomes. 
+
+Although visually inspecting suspected skin lesions is considered gold-standard for diagnosis, delays in diagnosis are common due to dermatologists’ shortage and long wait times in healthcare (Xavier et al., 2016). However, the accuracy of visual examination can vary and may be a barrier to accurate diagnosis as studies have indicated that healthcare professionals misdiagnose melanomas in up to 30% of cases (Dinnes et al., 2018).  
+
+Other methods such as biopsy, dermoscopy, and/or confocal microscopy outperform visual inspection, but they may also be invasive, expensive, and require specialized training and expertise to perform and interpret the results.
+
+Recent advancements in machine learning can provide automation of the diagnosis of pigmented skin lesions and potentially overcome the obstacles posed by current diagnostic methods.  Automating systems to classify skin lesions as non-melanoma or melanoma can provide a more objective and consistent diagnosis while improving accuracy and efficiency. Using the International Skin Collaboration (ISIC) dataset, this study aims to develop a robust convolutional neural network (CNN) to classify pigmented skin lesions from the nine identified skin cancer classes. The efficacy of the model will be evaluated, emphasizing the benefits of implementing diagnostic machine learning models in current practice.  
+![image](https://github.com/Simi912/Automated-Diagnosis-of-pigmented-skin-lesions/assets/97066870/43ff76a6-cc9e-4924-af52-102912572827)
